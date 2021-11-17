@@ -40,7 +40,7 @@ Awesome right?
 
 ### Details
 
-The <details> element is an element that creates a dropdown menu that will show you more details when clicked. Basically it’s just expandable text. (For example you could create a learn more dropdown with this).
+The `<details>` element is an element that creates a dropdown menu that will show you more details when clicked. Basically it’s just expandable text. (For example you could create a learn more dropdown with this).
 
 Example:
 

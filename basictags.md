@@ -79,4 +79,4 @@ Here they are:
 - `<s>` - <s>strikethrough</s>
 - `<u>` - <u>Underline</u>
 
-And now you know some basic tags! Try and make an all about me page or anything else you want with these skills. Next let's learn about [some more tags you can use](listsdetailstags.html)!
+And now you know some basic tags! Try and make an all about me page or anything else you want with these skills. Next let's learn about [some more tags you can use](listsdetailsimages.html)!

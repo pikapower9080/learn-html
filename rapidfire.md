@@ -166,3 +166,5 @@ The video tag allows you to insert a basic video player provided by the browser 
 ### And that's it!
 
 There you have it. 11 Rapid fire tags that you know for later! As always, try to come up with something cool using your new tag smarts. See you next time!
+
+Hey I have an idea! Why don't you click on this [link](links.html) to learn about links!

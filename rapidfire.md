@@ -8,6 +8,7 @@ A tag that lets you insert a mini audio player provided by your browser into you
 ```html
 <audio src="source_direct_link.mp3" controls></audio>
 ```
+
 <audio src="https://htmlreference.io/assets/Hal.mp3" controls>
 
 *Thanks to [htmlrefrence.io](https://htmlreference.io/) for the sample audio!*
@@ -157,7 +158,7 @@ A box of text where the user can type.
 The video tag allows you to insert a basic video player provided by the browser and not something like youtube or vimeo.
 
 ```html
-<video src="direct_link_to_source_you_learned_this_in_the_images_part.mp4" controls></video>
+<video src="https://pikapower9080.github.io/assets/downloads/shreksophone_short.mp4" controls></video>
 ```
 
 <video src="https://pikapower9080.github.io/assets/downloads/shreksophone_short.mp4" controls width="100%"></video>

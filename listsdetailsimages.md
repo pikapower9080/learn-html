@@ -108,4 +108,4 @@ If that won't cut it for you, you can use an image hosting site like [Imgur](htt
 
 *PS you can use the alt attribute to add alt text to an image that will show if the image fails to load or the user is using a screen reader. This alt text should be a description of the image that could stand in for actually seing it.*
 
-Great! Now you’re a master at Lists, Details and Images! Try and create something cool with your new skills. See you next time!
+Great! Now you’re a master at Lists, Details and Images! Try and create something cool with your new skills. See you [next time](rapidfire.html)!

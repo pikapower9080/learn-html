@@ -9,7 +9,7 @@ A tag that lets you insert a mini audio player provided by your browser into you
 <audio src="source_direct_link.mp3" controls></audio>
 ```
 
-<audio src="https://htmlreference.io/assets/Hal.mp3" controls>
+<audio src="https://htmlreference.io/assets/Hal.mp3" controls></audio>
 
 *Thanks to [htmlrefrence.io](https://htmlreference.io/) for the sample audio!*
 

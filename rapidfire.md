@@ -37,7 +37,7 @@ Useful for writing CSS which is how you make your webpages look nice. Basically 
 
 ```html
 <h3>This is some heading text</h3>
-<div id="articlebody"> <!-- You usually mark div elememnts with an ID (you can do this with any element)-->
+<div id="articlebody"> <!-- You usually mark div elements with an ID (you can do this with any element)-->
 <p>This is some body text</p>
 </div>
 ```
@@ -100,7 +100,7 @@ The select tag creates a dropdown menu with options. This goes with the option t
 	<option>Yellow</option>
 	<option>Green</option>
 	<option>Blue</option>
-	<option>Indego</option>
+	<option>Indigo</option>
 	<option>Violet</option>
 </select>
 ```
